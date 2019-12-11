@@ -5,20 +5,20 @@
 <div class="bg">
 <div class="row">    		
 <div class="col-sm-8">    			   			
-<h2 class="title text-center">Contact <strong>Us</strong></h2> 
+<h2 class="title text-center">Hubungi Kami <strong> </strong></h2> 
 <div class="status alert alert-success" style="display: none"></div>
 <form id="main-contact-form" class="contact-form row" name="contact-form" method="post">
 <div class="form-group col-md-6">
-    <input type="text" name="name" class="form-control" required="required" placeholder="Name">
+    <input type="text" name="name" class="form-control" required="required" placeholder="Nama">
 </div>
 <div class="form-group col-md-6">
     <input type="email" name="email" class="form-control" required="required" placeholder="Email">
 </div>
 <div class="form-group col-md-12">
-    <input type="text" name="subject" class="form-control" required="required" placeholder="Subject">
+    <input type="text" name="subject" class="form-control" required="required" placeholder="Subyek">
 </div>
 <div class="form-group col-md-12">
-    <textarea name="message" id="message" required="required" class="form-control" rows="8" placeholder="Your Message Here"></textarea>
+    <textarea name="message" id="message" required="required" class="form-control" rows="8" placeholder="Tulis Pesanmu Disini"></textarea>
 </div>                        
 <div class="form-group col-md-12">
     <input type="submit" name="submit" class="btn btn-primary pull-right" value="Submit">
@@ -29,17 +29,16 @@
 </div>
 <div class="col-sm-4">
 <div class="contact-info">
-<h2 class="title text-center">Contact Info</h2>
+<h2 class="title text-center">Info</h2>
 <address>
-    <p>Hyper-Mart Inc.</p>
-    <p>Bahauddin Zakariya University</p>
-    <p>Pakistan, Lahore</p>
-    <p>Mobile: +92303-0961254</p>
-    <p>Fax: 1-714-252-0026</p>
-    <p>Email: amaanchaudhary17@gmail.com</p>
+    <p>Chip Jogja.</p>
+    <p>Universitas Islam Indonesia</p>
+    <p>Indonesia, Yogyakarta</p>
+    <p>Mobile: +628323131</p>
+    <p>Email: chip@students.uii.ac.id</p>
 </address>
 <div class="social-networks">
-    <h2 class="title text-center">Social Networking</h2>
+    <h2 class="title text-center">Media Sosial</h2>
     <ul>
         <li>
             <a href="#"><i class="fa fa-facebook"></i></a>

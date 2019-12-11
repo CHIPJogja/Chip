@@ -14,7 +14,7 @@
         <div class="quick-actions_homepage">
           <ul class="quick-actions">
             <li class="bg_lb"> <a href="{{url ('/admin/dashboard')}}"> <i class="icon-dashboard"></i> My Dashboard </a> </li>
-          <li class="bg_lg span3"> <a href="{{url ('/admin/view-categories')}}"> <i class="icon icon-list"></i><span class="label label-important">{{$categoryCount->total()}}</span> Categories</a> </li>
+          <li class="bg_lg span3"> <a href="{{url ('/admin/view-categories')}}"> <i class="icon icon-list"></i><span class="label label-important">{{$categoryCount->total()}}</span> Kategori</a> </li>
             <li class="bg_ly"> <a href="{{url ('/admin/view-products')}}"> <i class="icon icon-list"></i><span class="label label-success">{{$productsAll->total()}}</span> Products </a> </li>
             <li class="bg_lo"> <a href="{{url ('/admin/view-coupons')}}"> <i class="icon icon-list"></i><span class="label label-info">{{$couponCount->total()}}</span> Coupons</a> </li>
             <li class="bg_ls"> <a href="{{url ('/admin/view-orders')}}"> <i class="icon-fullscreen"></i><span class="label label-warning">{{$orderCount->total()}}</span> Orders</a> </li>
